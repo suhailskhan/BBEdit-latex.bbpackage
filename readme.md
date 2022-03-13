@@ -2,6 +2,8 @@
 
 This is a collection of clippings and scripts used to write Latex in BBEdit.
 
+This fork contains updates to some scripts that used outdated paths to TeX binaries, rendering them non-functional. All other contents remain unchanged.
+
 # Installation
 
 If you are using BBEdit 10.1 or newer, you can drag the `.bbpackage` file onto the BBEdit dock icon, and it will install it for you.
